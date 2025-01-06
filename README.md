@@ -1,6 +1,6 @@
 # LITA-personal-projects
 
-## Project Title:SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
+## Project Title: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
 ## Project Overview:
 
