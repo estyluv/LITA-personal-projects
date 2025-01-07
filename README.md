@@ -9,6 +9,9 @@ This project aims to analyse data collected from different markets and stores ac
 ## Data Collected
 
 The data collected includes the following key variables;
-1. Region: The geographical area where the stores operates.
-2. Markets: An arena within the region where commercial dealings are carried out.
-3. Stores: An outlet that performs the sales operation. This is whwere the sales data are gotten from.
+1. Region : The geographical area where the stores operates.
+2. Markets : An arena within the region where commercial dealings are carried out.
+3. Stores : An outlet that performs the sales operation. This is where the sales data are gotten from.
+4. Trade Date : A specific date on which a transaction was conducted.
+5. Fiscal Period : a twelve-month period that the stores works with.
+6. 
