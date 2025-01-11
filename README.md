@@ -13,5 +13,6 @@ The data collected includes the following key variables;
 2. Markets : An arena within the region where commercial dealings are carried out.
 3. Stores : An outlet that performs the sales operation. This is where the sales data are gotten from.
 4. Trade Date : A specific date on which a transaction was conducted.
-5. Fiscal Period : a twelve-month period that the stores works with.
-6. 
+5. Fiscal Period : A twelve-month period that the stores works with.
+6. Product : The item being sold at the stores.
+7. Order Month : The month when the transaction was carried out.
